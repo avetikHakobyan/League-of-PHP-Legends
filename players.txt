@@ -1,0 +1,6 @@
+Avetik~Hakobyan~avetik.hak01@gmail.com~Gatineau~Canada~$2y$10$XCKeOm2wjn9rMcq2yc9CROdekNh15NHd7i5XTa2siMiRsKwbrd4Yq~yes
+Baba~Bababa~Baba@example.ca~London~Canada~$2y$10$zS5wA56jA7PTiKa1PO0P8eWgP/qro/yQTqGh9hhZFrYRTj2nmJ9AG~no
+Bob~Smith~bob.smith@gm.com~Gatineau~Canada~$2y$10$Xdx2vnGkiQ5L2WCjdeKo4eqHsaA.fpzW/1FeJyMXIL5uFeHBDXDgS~no
+Marissa~Cleroux~marissa.cleroux2@gmail.com~Gatineau~Canada~$2y$10$6VBNcaaoy18oI1cxOtQv0eyqgZk5/hQpuK/gWY7qAk.Wj8FS4aYhy~yes
+Zachary~Lastname~zachary@gmr.com~Gatineau~Canada~$2y$10$WI2Jk9SLQuOpjgmoAjK9NutZEp8pcAmLblAkWCBnU9ojYC5BfdSJi~no
+admin~admin~admin~Gatineau~Canada~$2y$10$1OV4MLckvViDleyLR5gxbeVl9A5ZFm6mjH2IRjx3ezknzqT.MEVre~no

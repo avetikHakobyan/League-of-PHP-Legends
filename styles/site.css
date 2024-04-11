@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+body {
+    background-color: #181a1b !important;
+    color: #d1cdc7 !important;
+    font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.form-control {
+    color: rgb(200, 195, 188);
+    background-color: rgb(19, 21, 22);
+    border-color: rgb(119, 110, 98);
+}
+
+.form-control:focus {
+    background-color: rgb(19, 21, 22);
+    color: rgb(209, 205, 199);
+    border-color: rgb(0, 106, 255);
+}
+
+.form-control::placeholder {
+    color: rgba(150, 146, 150, 0.75);
+}
+
+.input-group-text {
+    color: rgb(181, 175, 166);
+    background-color: rgb(35, 38, 39);
+    border-color: rgb(60, 65, 68);
+}
+
+.form-select {
+    color: rgb(200, 195, 188);
+    background-color: rgb(19, 21, 22);
+    border-color: rgb(119, 110, 98);
+    font-size: 1rem;
+}
+
+.form-select:focus {
+    border-color: rgb(1, 57, 137);
+    outline-color: initial;
+    box-shadow: rgb(2 80 196 / 25%) 0px 0px 0px 0.25rem;
+}
+
+.w-60 {
+    width: 95%;
+}
+
+@media screen and (min-width: 768px) {
+    .w-60 {
+        width: 50%;
+    }
+}
